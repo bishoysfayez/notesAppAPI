@@ -1,10 +1,15 @@
-# notesAppAPI
+## notesAppAPI
 APIS CRUD Operation For User module
 1- Sign Up (Send email to user) (Apply Joi validation)( token expired in 1 minute )
+
 2- Sign in (send token) (user must be confirmed)(Apply Joi validation)
+
 3- Refresh token 
+
 4- forget password 
+
 5- change password (user must be logged in)
+
 6- DELETE USER (account owner only)(user must be logged in and confirmed)(Apply Joi validation)
 
 7- Get all users (user must be logged in and confirmed)
