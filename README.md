@@ -1,4 +1,6 @@
 ## notesAppAPI
+Nodejs - Express.js  mongodb - mongoose  - server for notes web app to save and edit user notes RESTful APIs
+
 APIS CRUD Operation For User module
 
 
